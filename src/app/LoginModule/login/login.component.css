@@ -1,0 +1,21 @@
+#idLogoContel {
+    height: 200px;
+}
+
+#idBoxLogin {
+    background-color: #dadada;
+}
+
+.form-label {
+    font-size:18px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.btn {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #34C096;
+    border: 1px solid black;
+}
