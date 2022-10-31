@@ -1,9 +1,10 @@
 #idLogoContel {
-    height: 200px;
+    width: 15em;
 }
 
 #idBoxLogin {
     background-color: #dadada;
+    height: fit-content;
 }
 
 .form-label {
