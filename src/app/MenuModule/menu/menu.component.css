@@ -1,0 +1,22 @@
+.row {
+    background-color: #274C77;
+}
+
+.logo {
+    width: 75px;
+}
+
+.btn {
+    background-color: #274C77;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.btn:focus {
+    border-style:  none;
+    color: #ffffff;
+}
+
+#idLogoContel {
+    width: 3.5em;
+}
